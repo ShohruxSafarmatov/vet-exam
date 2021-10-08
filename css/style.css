@@ -725,6 +725,9 @@ box-sizing: border-box;
   margin-bottom: 5px;
   text-decoration: none;
 }
+.work__time{
+  text-decoration: none;
+}
 .work__time-img{
   transform: translateY(4px);
 }
